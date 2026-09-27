@@ -13,4 +13,5 @@ Platform : Kaggle
 # 3. Data Preprocessing
 Platform : Pentaho
 
+#
 Developed an automated ETL pipeline using Pentaho Spoon ETL and phpMyAdmin to process air quality data from five monitoring stations in Jakarta. The cleaned dataset was integrated into Power BI, resulting in an interactive dashboard that supports analysis of pollution trends. This project enabled structured environmental data analysis and taught me how to automate ETL workflows, manage databases, and collaborate effectively in a group setting.
